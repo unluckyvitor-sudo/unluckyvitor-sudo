@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor brasileiro que gosta de transformar ideias em coisas que funcionam de verdade:<br>
-  plataformas web, assistentes de voz e sites que convertem.
+  plataformas web, jogos educativos e assistentes de voz.
 </p>
 
 <p align="center">
@@ -28,11 +28,6 @@ Assistente pessoal por **voz** no estilo do JARVIS do Homem de Ferro, rodando no
 - Painel web, controle do computador e abaixa a música sozinho enquanto fala
 
 `Python` `faster-whisper` `edge-tts` `Ollama` `Claude Agent SDK`
-
-### ☀️ PM Energy Solar
-Site responsivo de alta conversão para uma empresa de energia solar, com calculadora de economia, portfólio, depoimentos e pedido de orçamento.
-
-`HTML` `CSS` `JavaScript` → [ver repositório](https://github.com/unluckyvitor-sudo/VITOR-MARTINS)
 
 ---
 
