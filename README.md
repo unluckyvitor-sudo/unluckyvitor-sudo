@@ -19,7 +19,7 @@ Plataforma educacional **gamificada**, do Ensino Fundamental ao Superior, com um
 - Professores criam turmas, propõem missões e acompanham o desempenho
 - Painel de administração, backups automáticos e publicação na nuvem (Docker + Railway)
 
-`React 19` `TypeScript` `Three.js` `Motion` `Node.js` `Socket.IO` `Vite`
+`React 19` `TypeScript` `Three.js` `Motion` `Node.js` `Socket.IO` `Vite` → [ver repositório](https://github.com/unluckyvitor-sudo/educa-hub)
 
 ### 🤖 J.A.R.V.I.S.
 Assistente pessoal por **voz** no estilo do JARVIS do Homem de Ferro, rodando no PC.
